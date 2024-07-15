@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jenny Paxian
-- 👀 I’m interested in 
+- 👀 I’m interested in working on Libre Software Projects
 - 🌱 I’m currently learning Rust and working on building public key infrastructure (PKI4EU)
 - 💞️ I’m looking to collaborate on infosec projects and building federated media platforms
 - 📫 Mail me at contact (ätt) jenny.earth
